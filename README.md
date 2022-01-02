@@ -1,2 +1,2 @@
 # aws-security-training
-notes updates 01/01/2021
+notes updated 01/01/2021
